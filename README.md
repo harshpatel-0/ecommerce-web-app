@@ -1,9 +1,9 @@
 
 # Trailblazers (MERN + ML)
 
-A sleek, full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React, Node.js) as part of a project during a bootcamp at Travelers. Designed and developed in under 48 hours, the app delivers a modern and seamless UI/UX.
+A sleek, full-stack e-commerce application built with the **MERN** stack (MongoDB, Express.js, React, Node.js) as part of a project during a bootcamp at **Travelers**. Designed and developed in under `48` hours, the app delivers a modern and seamless UI/UX.✨
 
-To enhance product discovery, we integrated a K-Nearest Neighbors (KNN) machine learning model using scikit-learn and Flask. This model recommends similar items based on attributes such as category, price, and user ratings, offering intelligent suggestions tailored to each product page.
+To enhance product discovery, we integrated a **K-Nearest Neighbors (KNN)** ML model using `scikit-learn` and `Flask`. This model recommends similar items based on attributes such as category, price, and user ratings, offering intelligent suggestions tailored to each product page. 🔍
 
 
 ## Demo
