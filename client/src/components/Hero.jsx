@@ -32,7 +32,6 @@ const Hero = () => {
               inline-flex items-center space-x-3
               bg-white text-black-500 px-8 py-4 rounded-full
               font-medium text-lg
-              hover:bg-gray-800 transition-colors group
             "
           >
             <span className = "font-display-text">Shop now</span>
