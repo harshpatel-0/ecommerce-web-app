@@ -75,8 +75,13 @@ First order of business is to open `3` seperate terminals
 - TailwindCSS
 - Vite
 
+## FAQ
+
+#### Why are there so few commits?
+
+The original project was developed on a VM provided by Travelers, hosted on their internal servers. As a result, version control was handled locally and not pushed to a public repository during development. This repository was later created on my personal repo to showcase the project.
+
 ## Authors
 
 - [@harshpatel-0](https://www.github.com/harshpatel-0)
 - [@stanleyzhengs0](https://www.github.com/stanleyzhengs0)
-
