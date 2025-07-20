@@ -44,6 +44,14 @@ Install required dependencies with `npm` and `pip`
   npm install
 ```
 
+Export CSV from `MongoDB Compass`
+
+```bash
+  cd server/model
+  # Replace the current CSV with the new one and rename it to capstone.products.
+```
+
+
 ## Run Locally
 
 First order of business is to open `3` seperate terminals
