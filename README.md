@@ -73,6 +73,7 @@ First order of business is to open `3` seperate terminals
 - Pandas
 - Seaborn
 - TailwindCSS
+- Vite
 
 ## Authors
 
