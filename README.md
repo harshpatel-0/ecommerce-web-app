@@ -47,8 +47,9 @@ Install required dependencies with `npm` and `pip`
 Export CSV from `MongoDB Compass`
 
 ```bash
+  # After exported:
   cd server/model
-  # Replace the current CSV with the new one and rename it to capstone.products.
+  # Replace the current CSV with the new one and rename it to capstone.products.csv
 ```
 
 
